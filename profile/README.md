@@ -10,6 +10,7 @@ Samorząd Uczniowski Zespołu Szkół Elektrycznych w Opolu (od 2019).
 | Repozytorium | Co to jest | Stan |
 |---|---|---|
 | [`sue-elektryk`](https://github.com/Samorzad-Ucznowski-Elektryk-Opole/sue-elektryk) | Aplikacja SU (React + Fastify + PostgreSQL), wdrożona na sue.opole.pl | aktywne |
+| [`sue-kronika`](https://github.com/Samorzad-Ucznowski-Elektryk-Opole/sue-kronika) | Kronika SU 2019–2026: generator statycznej strony, sue.opole.pl/kronika | aktywne |
 | [`social-media-posty`](https://github.com/Samorzad-Ucznowski-Elektryk-Opole/social-media-posty) | Grafiki i posty social media (2023) | do przeglądu przez sekcję Social Media |
 | [`SignumLBRI`](https://github.com/Samorzad-Ucznowski-Elektryk-Opole/SignumLBRI) | Strona kiermaszu książek (fork) | publiczne |
 | [`.github`](https://github.com/Samorzad-Ucznowski-Elektryk-Opole/.github) | Ten profil i wspólne konwencje (Git, nazwy plików) | aktywne |
